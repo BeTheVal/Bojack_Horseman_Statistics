@@ -35,7 +35,7 @@ plt.show()
 
 """During 2016"""
 in_2016 = df[df["YEAR"] == 2016]
-mean16 = (in_2015["RATING (IMDB)"].mean())
+mean16 = (in_2016["RATING (IMDB)"].mean())
 print("Mean 2016 rating:", mean16)
 rating_2016 = in_2016["RATING (IMDB)"]
 sea_epi = in_2016["SEASON + EPISODE"]
@@ -51,6 +51,7 @@ in_2017 = df[df["YEAR"] == 2017]
 mean17 = (in_2017["RATING (IMDB)"].mean())
 print("Mean 2017 rating:", mean17)
 rating_2017 = in_2017["RATING (IMDB)"]
+print(rating_2017)
 sea_epi = in_2017["SEASON + EPISODE"]
 plt.plot(rating_2017, sea_epi, '-o')
 plt.title("Rating 2017 BJH")
@@ -62,7 +63,7 @@ plt.show()
 """During 2018"""
 in_2018 = df[df["YEAR"] == 2018]
 mean18 = (in_2018["RATING (IMDB)"].mean())
-print("Mean 2018 rating:", mean15)
+print("Mean 2018 rating:", mean18)
 rating_2018 = in_2018["RATING (IMDB)"]
 sea_epi = in_2018["SEASON + EPISODE"]
 plt.plot(rating_2018, sea_epi, '-o')
