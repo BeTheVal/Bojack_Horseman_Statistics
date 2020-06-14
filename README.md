@@ -1,5 +1,25 @@
 # Bojack Horseman Statistics
 Statistics about the famous serie on Netflix, Bojack Horseman, using Python and Pandas
+## During 2014  
+In 2014, the year the series premiered, an average score of 7.8 was achieved on IMDb, it obtained a 7.1 in the first episode, this being the lowest of the year, while the highest was 8.6 at the end of the season.         
+![](https://github.com/BeTheVal/Bojack_Horseman_Statistics/blob/master/rating_2014.png "")  
+## During 2015
+During 2015 his general average increases to 8.1 having the worst rating in chapter 6 (7.7 almost as bad as his first chapter) and the best rating in episode 11.  
+![](https://github.com/BeTheVal/Bojack_Horseman_Statistics/blob/master/rating_2015.png "")  
+## During 2016
+In 2016 the average increases slightly to 8.2, its worst chapter this year being 3 with a 7.4, while it achieves a 9.1 in the next chapter, as expected, seeing the charts before the end of the season, it also leaves a chapter with a good score.  
+![](https://github.com/BeTheVal/Bojack_Horseman_Statistics/blob/master/rating_2016.png "")  
+## During 2017
+In 2017, its average continues to advance to 8.4, with several chapters rated close to 9, leaving the end of the season 9 as usual since previous years, this season and the following year are the best valued
+![](https://github.com/BeTheVal/Bojack_Horseman_Statistics/blob/master/rating_2017.png "")  
+## During 2018
+![](https://github.com/BeTheVal/Bojack_Horseman_Statistics/blob/master/rating_2018.png "")  
+## Otras conclusiones   
+The overall average series score is 8.2 on IMDb
+Spectators liked longer episodes (time exceeding average) than episodes not exceeding average time   
+![](https://github.com/BeTheVal/Bojack_Horseman_Statistics/blob/master/duration_rating.png "")    
+Bojack Horseman has held up very well over time, its chapters being highly rated from start to finish.  
+
 # Estadísticas Bojack Horseman
 Estadísticas sobre la famosa serie de Netflix, Bojack Horseman, usando Python y Pandas
 Basado en el dataset de Jared H. en https://www.kaggle.com/jaredhelton/bojack-horseman-season-1-to-5
