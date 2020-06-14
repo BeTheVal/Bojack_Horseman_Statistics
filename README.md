@@ -1,5 +1,6 @@
 # Bojack Horseman Statistics
-Statistics about the famous serie on Netflix, Bojack Horseman, using Python and Pandas
+Statistics about the famous serie on Netflix, Bojack Horseman, using Python and Pandas  
+Based on Jared H.'s dataset at https://www.kaggle.com/jaredhelton/bojack-horseman-season-1-to-5
 ## During 2014  
 In 2014, the year the series premiered, an average score of 7.8 was achieved on IMDb, it obtained a 7.1 in the first episode, this being the lowest of the year, while the highest was 8.6 at the end of the season.         
 ![](https://github.com/BeTheVal/Bojack_Horseman_Statistics/blob/master/rating_2014.png "")  
@@ -14,7 +15,7 @@ In 2017, its average continues to advance to 8.4, with several chapters rated cl
 ![](https://github.com/BeTheVal/Bojack_Horseman_Statistics/blob/master/rating_2017.png "")  
 ## During 2018
 ![](https://github.com/BeTheVal/Bojack_Horseman_Statistics/blob/master/rating_2018.png "")  
-## Otras conclusiones   
+## Other conclusions  
 The overall average series score is 8.2 on IMDb
 Spectators liked longer episodes (time exceeding average) than episodes not exceeding average time   
 ![](https://github.com/BeTheVal/Bojack_Horseman_Statistics/blob/master/duration_rating.png "")    
